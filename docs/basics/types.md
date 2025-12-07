@@ -71,8 +71,8 @@ func main() {
 Represent logical truth values.
 
 ```go
-is_active := True
-is_admin := False
+is_active := true
+is_admin := false
 ```
 Used in:
 - Conditions.
